@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheDenisZuev
 - 👀 I’m interested in Cypress
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Playwright, Docker
 - 📫 How to reach me thedeniszuev@gmail.com
 
 <!---
